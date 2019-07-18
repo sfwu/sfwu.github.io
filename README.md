@@ -1,4 +1,4 @@
-# Jun Luo Personal Page
+# Personal Page
 
 Link: [luoos.github.io](https://luoos.github.io)
 
