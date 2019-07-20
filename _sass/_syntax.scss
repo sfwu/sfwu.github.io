@@ -1,10 +1,15 @@
 @import 'ext/solarized-light';
 
 .highlighter-rouge {
-	width: 100vw;
-	position: relative;
-	right: 150px;
-	margin: 40px 0;
+    width: 100vw;
+    position: relative;
+    margin: 40px 0;
+    font-size: 85%;
+    background-color: rgba(27,31,35,0.05);
+}
+
+div.highlighter-rouge {
+    right: 150px;
 }
 
 .highlight {

@@ -91,7 +91,7 @@ header {
 	margin:0 150px;
 	max-width: 720px;
 
-	.highlighter-rouge {
+	div.highlighter-rouge {
 		right: 150px;
 	}
 
@@ -100,29 +100,29 @@ header {
 	}
 
 	@media screen and  (max-width: $mobileWidth) {
-		margin:0 15px; 
-		.highlighter-rouge {
+		margin:0 15px;
+		div.highlighter-rouge {
 			right: 15px;
 		}
 	}
 
 	@media screen and (max-width: $tabWidth) and (min-width: $mobileWidth){
-		margin:0 40px;	
-		.highlighter-rouge {
+		margin:0 40px;
+		div.highlighter-rouge {
 			right: 40px;
 		}
 	}
 
 	@media screen and (max-width: $desktopWidth) and (min-width: $tabWidth){
 		margin:0 80px;
-		.highlighter-rouge {
+		div.highlighter-rouge {
 			right: 80px;
 		}
 	}
 
 	@media screen and (min-width: $desktopWidth) and (max-width: 1280px) {
 		margin:0 100px;
-		.highlighter-rouge {
+		div.highlighter-rouge {
 			right: 100px;
 		}
 	}
