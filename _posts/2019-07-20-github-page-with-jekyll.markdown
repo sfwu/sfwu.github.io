@@ -3,7 +3,7 @@ layout: post
 title: "Github Page with Jekyll"
 date: 2019-07-20
 ---
-If you want to set up a personal page with several your social media links and some posts, Github Page with Jekyll may be the best combo.
+If you want to set up a personal page with several your social media links and some posts, Github Page with Jekyll might be the best combo.
 
 Using Jekyll to set up a Github Page is extremely easy, you don't need to care any back-end stuff, no server, no database and no domain name. What you need to learn are the Jekyll usage and front-end knowledge such as html and css, and you write posts in markdown.
 
