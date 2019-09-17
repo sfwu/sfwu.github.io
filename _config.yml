@@ -1,6 +1,6 @@
-title: Jun Luo
-author: luoos
-email: luojunmoo@gmail.com
+title: Songfeng Wu
+author: sfwu
+email: sfwu120@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -24,13 +24,13 @@ texture:
   # generate social links in footer
 
 personal:
-  title: Jun Luo
+  title: Songfeng Wu
   tagline: Software Engineer
 
   social_links:
-    instagram:  _luojl
-    github:  luoos
-    linkedIn: in/jun-luo-10195511b/
+    instagram:
+    github: sfwu
+    linkedIn: in/songfeng-wu-00a326153/
  
 
 # If you want to link only specific pages in your header, uncomment
