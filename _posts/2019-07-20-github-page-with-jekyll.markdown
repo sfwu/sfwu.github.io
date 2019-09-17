@@ -20,4 +20,4 @@ I'm listing the tutorials I took, which help me build my personal page, and I be
 
 In addition to above steps, there is another way you can set up your page quickly. You can just fork someone's Jekyll github repository, change forked repository name to `<you-github-account-name>.github.io`. Then open `https://<your-github-account-name>.github.io/`, you will find everything is done. After that, you could start to build your own page based on it.
 
-You could try to fork my reposity - [luoos.github.io](https://github.com/luoos/luoos.github.io) to do a test :-)
+You could try to fork my reposity - [sfwu.github.io](https://github.com/sfwu/sfwu.github.io) to do a test :-)
